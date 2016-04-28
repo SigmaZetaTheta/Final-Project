@@ -5,9 +5,6 @@
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 African American\
-watermelon\
-chicken\
-kool-aid\
 lazy\
 rapist\
 rape\
@@ -33,4 +30,47 @@ basketball\
 rap \
 urban\
 chains\
+gun
+guns
+gunman
+gunmen
+gunshot
+gunshots
+hit
+hits
+dead
+stab
+stabs
+stabbed
+shank
+shanks
+abuse
+absued
+abusing
+assault
+assaults
+assaulted
+decapitate
+decapitates
+decapitated
+mutilate
+mutilated
+mutilates
+behead
+beheads
+beheaded
+blood
+bloody
+strangle
+strangles
+battle
+punch
+punched
+punches
+slap
+slaps
+slapped
+batter
+dirty
+ugly
 }
