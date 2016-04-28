@@ -6,7 +6,7 @@
 
 \f0\fs24 \cf0 East Asian \
 \
-rich\
+
 doctor\
 smart\
 ninja\
@@ -24,5 +24,11 @@ karate\
 genius glasses\
 accent\
 ching\
-chong \
+chong 
+scientist
+accent
+unclear
+kung fu
+physicist
+computer\
 }
